@@ -13,7 +13,7 @@
 - 🏫 Shenzhen University
 - 💼 A game company
 - 💬 Feel free to contact me
-  - Email: [apeng622@gmail.com](mailto:apeng622@gmail.com)
+  - Email: [apeng@apst.dev](mailto:apeng@apst.dev)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apeng7364&count_private=true&layout=compact&theme=dark&hide=html,css)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Apeng7364&show_icons=true&theme=dark)
